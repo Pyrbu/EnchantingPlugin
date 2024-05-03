@@ -1,0 +1,6 @@
+main: me.pyr.enchanting.EnchantmentPlugin
+authors: ${project.authors}
+name: PyrsEnchanting
+api-version: 1.17
+version: ${project.version}
+
